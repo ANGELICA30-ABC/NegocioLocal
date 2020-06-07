@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+section{
+	width:98%;
+	margin-left:1%;
+	margin:1%;
+	padding:25px;
+	background:#CCC;
+	}
+article{
+	padding:10px;
+	}
+video{
+	width:100%;
+	}
+audio{
+	float:right;
+	padding:5px;
+	}
+img{
+	float:right;
+	}
+ol{
+	margin-left:2%;
+	}

@@ -1,0 +1,26 @@
+@charset "utf-8";
+/* CSS Document */
+section{
+	width:98%;
+	margin-top:5px;
+	background:#C6B066;
+	margin-left:1%;
+	padding:15px;
+	}
+section h1{
+	text-align:center;
+	}
+section img {
+	padding: 20px;
+	}
+article{
+	font-size:24px;
+	padding: 5px;
+	}
+section h2{
+	float:right;
+	}
+footer{
+	background-color:#FC6;
+	padding: 20px;
+	}

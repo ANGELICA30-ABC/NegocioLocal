@@ -1,0 +1,35 @@
+body{
+	background:#FF9;
+	
+}
+.header{
+	background:#FF9;
+	
+}
+.Titulo{
+	padding:12px;
+	background:#FC3;
+	margin:0;
+	text-align:center;
+	box-shadow:#F00;
+}
+.a{
+	box-shadow:#F90;
+	padding:8px;
+	background:#FFC;
+	text-align:right;
+	margin-right:700px;
+
+}
+.b{
+	box-shadow:#F90;
+	padding:8px;
+	background:#FFC;
+	text-align:left;
+	margin-left:900px;
+	margin-bottom:10px;
+}
+.img{
+	margin-left:300px;
+	
+}
